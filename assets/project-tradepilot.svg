@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#1e3a8a"/><stop offset="1" stop-color="#6366f1"/></linearGradient>
+  <radialGradient id="glow"><stop stop-color="#ffffff" stop-opacity=".42"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+  <filter id="shadow"><feDropShadow dx="0" dy="20" stdDeviation="25" flood-color="#071b42" flood-opacity=".22"/></filter>
+</defs>
+<rect width="1600" height="900" fill="url(#bg)"/>
+<circle cx="1340" cy="130" r="420" fill="url(#glow)"/>
+<path d="M0 720 C280 610 420 820 700 710 S1160 590 1600 760 V900 H0Z" fill="#fff" opacity=".10"/>
+<g opacity=".16" stroke="#fff">
+  <path d="M0 130H1600M0 260H1600M0 390H1600M0 520H1600M0 650H1600M0 780H1600"/>
+  <path d="M180 0V900M360 0V900M540 0V900M720 0V900M900 0V900M1080 0V900M1260 0V900M1440 0V900"/>
+</g>
+<g transform="translate(1030 250)" filter="url(#shadow)"><g fill="none" stroke="#fff" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+<rect x="55" y="70" width="360" height="360" rx="56" fill="#fff" fill-opacity=".10"/>
+<circle cx="235" cy="205" r="75" fill="#fff" fill-opacity=".13"/>
+<path d="M195 205h80M235 165v80M115 345h240"/>
+<circle cx="115" cy="345" r="24" fill="#fff"/><circle cx="235" cy="345" r="24" fill="#fff"/><circle cx="355" cy="345" r="24" fill="#fff"/>
+<path d="M235 280v42M115 100V35M355 100V35M115 35h240"/>
+</g></g>
+<text x="120" y="575" fill="#fff" font-size="82" font-family="Arial, sans-serif" font-weight="700">TradePilot AI</text>
+<text x="125" y="645" fill="#fff" fill-opacity=".76" font-size="30" font-family="Arial, sans-serif" letter-spacing="4">MULTIMODAL PRODUCT AGENT</text>
+<rect x="120" y="690" width="150" height="8" rx="4" fill="#fff" fill-opacity=".86"/>
+</svg>

@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#075985"/><stop offset="1" stop-color="#22c55e"/></linearGradient>
+  <radialGradient id="glow"><stop stop-color="#ffffff" stop-opacity=".42"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+  <filter id="shadow"><feDropShadow dx="0" dy="20" stdDeviation="25" flood-color="#071b42" flood-opacity=".22"/></filter>
+</defs>
+<rect width="1600" height="900" fill="url(#bg)"/>
+<circle cx="1340" cy="130" r="420" fill="url(#glow)"/>
+<path d="M0 720 C280 610 420 820 700 710 S1160 590 1600 760 V900 H0Z" fill="#fff" opacity=".10"/>
+<g opacity=".16" stroke="#fff">
+  <path d="M0 130H1600M0 260H1600M0 390H1600M0 520H1600M0 650H1600M0 780H1600"/>
+  <path d="M180 0V900M360 0V900M540 0V900M720 0V900M900 0V900M1080 0V900M1260 0V900M1440 0V900"/>
+</g>
+<g transform="translate(1030 250)" filter="url(#shadow)"><g fill="none" stroke="#fff" stroke-width="15" stroke-linecap="round" stroke-linejoin="round">
+<circle cx="135" cy="175" r="105" fill="#fff" fill-opacity=".14"/><circle cx="310" cy="275" r="125" fill="#fff" fill-opacity=".12"/><circle cx="110" cy="390" r="75" fill="#fff" fill-opacity=".16"/>
+<path d="M135 65c40-72 108-42 128-18-46 12-89 31-128 18z" fill="#fff" fill-opacity=".38"/>
+<rect x="35" y="70" width="380" height="405" rx="42" stroke-dasharray="26 18"/>
+<path d="M65 135V95h40M345 95h40v40M65 405v40h40M385 405v40h-40"/>
+</g></g>
+<text x="120" y="575" fill="#fff" font-size="82" font-family="Arial, sans-serif" font-weight="700">Orchard-YOLO</text>
+<text x="125" y="645" fill="#fff" fill-opacity=".76" font-size="30" font-family="Arial, sans-serif" letter-spacing="4">VISION FOR SMART AGRICULTURE</text>
+<rect x="120" y="690" width="150" height="8" rx="4" fill="#fff" fill-opacity=".86"/>
+</svg>

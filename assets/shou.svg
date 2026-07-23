@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 150">
+  <circle cx="78" cy="75" r="53" fill="#edf6ff" stroke="#2f6fc4" stroke-width="5"/>
+  <path d="M43 79c22-5 41-18 57-40-1 29-14 50-43 64 16 2 31-2 45-12" fill="none" stroke="#2f6fc4" stroke-width="6" stroke-linecap="round"/>
+  <path d="M45 99c20 8 41 8 63-1" fill="none" stroke="#76b5ec" stroke-width="5" stroke-linecap="round"/>
+  <text x="142" y="67" font-family="Georgia, serif" font-size="25" font-weight="700" fill="#174b8d">SHOU</text>
+  <text x="142" y="91" font-family="Arial, sans-serif" font-size="10" letter-spacing="1" fill="#54779f">SHANGHAI OCEAN</text>
+  <text x="142" y="107" font-family="Arial, sans-serif" font-size="10" letter-spacing="1" fill="#54779f">UNIVERSITY</text>
+</svg>

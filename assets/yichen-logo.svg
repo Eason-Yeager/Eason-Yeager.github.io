@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 300">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#164b8c"/>
+      <stop offset=".5" stop-color="#3e88d6"/>
+      <stop offset="1" stop-color="#8ac9f5"/>
+    </linearGradient>
+  </defs>
+  <g fill="none" stroke="url(#g)" stroke-linecap="round">
+    <path d="M87 238C66 169 85 96 143 43c8 75-4 143-56 195Z" stroke-width="8"/>
+    <path d="M88 237c35-64 83-112 146-145-4 73-48 128-146 145Z" stroke-width="8"/>
+    <path d="M91 238c37-36 75-56 115-60-18 41-55 61-115 60Z" stroke-width="7"/>
+    <path d="M88 239c38-54 70-111 96-171" stroke-width="5"/>
+    <path d="M117 191c25-4 49-15 70-32M105 213c31-2 60-11 86-29M136 149c-2-26 3-51 16-73" stroke-width="4" opacity=".7"/>
+    <path d="M207 65c10 8 20 8 30 0-8 10-8 20 0 30-10-8-20-8-30 0 8-10 8-20 0-30Z" stroke-width="3"/>
+  </g>
+  <text x="232" y="184" font-family="Georgia, 'Times New Roman', serif" font-size="87" font-style="italic" fill="url(#g)">Yichen</text>
+  <text x="240" y="224" font-family="Arial, sans-serif" font-size="15" font-weight="700" letter-spacing="5" fill="#2f6fc4">ROBOTICS · INTELLIGENCE</text>
+</svg>
